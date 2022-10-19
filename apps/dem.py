@@ -1,5 +1,6 @@
-import streamlit as st
-import leafmap.foliumap as leafmap
+# import streamlit as st
+# import leafmap.foliumap as leafmap
 
-def app():
-    print("Hello Dem")
+# def app():
+    
+#     st.title("DEM")
